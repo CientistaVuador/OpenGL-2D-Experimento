@@ -1,0 +1,7 @@
+com\cien\opengl2dexperimento\Game.class
+com\cien\opengl2dexperimento\Body.class
+com\cien\opengl2dexperimento\SpriteRenderer.class
+com\cien\opengl2dexperimento\sprites\SpriteLoader.class
+com\cien\opengl2dexperimento\Sprite.class
+com\cien\opengl2dexperimento\AABB.class
+com\cien\opengl2dexperimento\Game$1.class
